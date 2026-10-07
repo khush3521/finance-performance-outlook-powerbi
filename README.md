@@ -71,7 +71,7 @@ This page provides management with a quick snapshot of the company's overall fin
 ---
 
 ## 2️⃣ P&L & Variance Analysis
-
+https://github.com/khush3521/finance-performance-outlook-powerbi/blob/main/Screenshot%202026-10-07%20113249.png
 This page focuses on detailed financial performance and variance analysis.
 
 ### Key Analysis
@@ -98,7 +98,7 @@ The P&L Profit Bridge helps explain how revenue and major cost components impact
 ---
 
 ## 3️⃣ Profitability & Cost Control
-
+https://github.com/khush3521/finance-performance-outlook-powerbi/blob/main/Screenshot%202026-10-07%20113254.png
 This page focuses on profitability drivers, cost pressure, and financial anomalies.
 
 ### Key Performance Indicators
@@ -128,6 +128,7 @@ The analysis helps identify:
 ---
 
 ## 4️⃣ Forecast & Outlook
+https://github.com/khush3521/finance-performance-outlook-powerbi/blob/main/Screenshot%202026-10-07%20113300.png
 
 The Forecast & Outlook page provides a forward-looking view of FY2026 financial performance.
 
