@@ -46,7 +46,7 @@ This dashboard was developed to answer key financial and management questions:
 # 📌 Dashboard Pages
 
 ## 1️⃣ Executive Summary
-https://github.com/khush3521/finance-performance-outlook-powerbi/blob/main/Screenshot%202026-10-07%20113242.png
+C:\Users\BAPS\Pictures\Screenshots
 The Executive Summary provides a high-level view of the company's financial performance.
 
 ### Key Performance Indicators
